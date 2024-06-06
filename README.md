@@ -10,7 +10,7 @@
 
 This dashboard provides a summary of sales performance for Global Supermarket. Check it out and let me know your thoughts! 👇
 
-![Analysed e=commerce sales data] (https://app.powerbi.com/reportEmbed?reportId=f568d4f7-6c6c-4832-8ed5-921d356a7908&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
+![Global Supermarket Sales Dashboard] (https://app.powerbi.com/reportEmbed?reportId=f568d4f7-6c6c-4832-8ed5-921d356a7908&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
 
 
 
